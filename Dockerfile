@@ -1,4 +1,4 @@
-FROM dockeralexandrtalan/java11
+FROM dockeralexandrtalan/java8
 
 ARG HOME=/root/hbase_client
 
